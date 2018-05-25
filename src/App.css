@@ -17,7 +17,8 @@
 .content {
   margin: auto; 
   text-align: left;
-  width: 500px;
+  width: 90%;
+  max-width: 500px;
 }
 
 .App-title {
